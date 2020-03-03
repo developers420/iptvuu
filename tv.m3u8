@@ -1,8 +1,8 @@
 {
     "stations": [{
-            "name": "CCTV-1",
+            "name": "Punjabi",
             "url": [
-                "http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8",
+                "http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8"
                
             ]
         },
