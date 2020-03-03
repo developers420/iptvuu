@@ -23,230 +23,98 @@
             ]
         },
         {
-            "name": "CCTV-4",
+            "name": "PUNJABI",
             "url": [
-                "http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8",
                 "http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8"
+                
             ]
         },
         {
-            "name": "CCTV-5",
+            "name": "WORLD PUNJABI TV",
             "url": [
-                "http://183.207.249.71/PLTV/2/224/3221226111/index.m3u8",
-                "http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8",
-                "http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8",
-                "http://sdlqx.chinashadt.com:2036/live/CCTV5.stream/playlist.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8",
-                "http://223.82.250.72/live/hdcctv05plus/1.m3u8",
-                "http://223.110.245.139:80/PLTV/4/224/3221227480/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8",
-                "http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"
+                "http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8"
+               
             ]
         },
         {
-            "name": "CCTV-6",
+            "name": "SPARK TV",
             "url": [
-                "http://117.169.120.140:8080/live/cctv-6/.m3u8",
-                "http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8",
-                "http://39.135.32.27:6610/000000001000/1000000001000001737/index.m3u8?i",
-                "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-6/yst.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8",
-                "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8",
-                "http://223.110.245.172:80/PLTV/3/224/3221227209/index.m3u8?icpid=88888888&from=0&hms_devid=3,23",
-                "http://223.110.245.173/PLTV/3/224/3221225548/index.m3u8",
-                "http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8",
-                "http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8",
-                "http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8",
-                "http://183.207.249.9/PLTV/3/224/3221225548/1.m3u8",
-                "http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8"
+                "http://skystar.livebox.co.in/skystarhls/live.m3u8"
+              
             ]
         },
         {
-            "name": "CCTV-7",
+            "name": "AAHOO TV",
             "url": [
-                "http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8",
-                "http://117.169.120.140:8080/live/cctv-7/.m3u8",
-                "http://183.207.249.71/PLTV/3/224/3221225546/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-7/yst.m3u8",
-                "http://183.207.248.8:80/PLTV/3/224/3221225546/index.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8",
-                "http://183.207.249.9/PLTV/3/224/3221225546/1.m3u8"
+                "https://v.viralshit.in/live/aahomusic.m3u8"
+               
             ]
         },
         {
-            "name": "CCTV-8",
+            "name": "SADA PUNJAB",
             "url": [
-                "http://117.169.120.140:8080/live/cctv-8/.m3u8",
-                "http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8",
-                "http://39.135.32.29:6610/000000001000/1000000001000003736/index.m3u8?i",
-                "http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-8/yst.m3u8",
-                "http://223.110.243.170/PLTV/3/224/3221227204/index.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8",
-                "http://223.110.245.139:80/PLTV/4/224/3221227304/index.m3u8",
-                "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227304/index.m3u8",
-                "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8",
-                "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8",
-                "http://hbry.chinashadt.com:1938/live/1002.stream_360p/playlist.m3u8",
-                "http://ivi.bupt.edu.cn/hls/cctv8.m3u8"
+                "http://103.81.156.115:1935/hello/saadapunjab/playlist.m3u8"
+               
             ]
         },
         {
-            "name": "CCTV-9",
+            "name": "TV 84",
             "url": [
-                "http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-news/yst.m3u8",
-                "http://223.82.250.72/live/cctv-9/1.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8",
-                "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225868/index.m3u8",
-                "http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8",
-                "http://183.207.248.11/PLTV/4/224/3221225868/index.m3u8",
-                "http://183.207.249.6/PLTV/3/224/3221225532/1.m3u8",
-                "http://ivi.bupt.edu.cn/hls/cctv9.m3u8"
+                "http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8"
             ]
         },
         {
-            "name": "CCTV-10",
+            "name": "FASTWAY TV",
             "url": [
-                "http://117.169.120.140:8080/live/cctv-10/.m3u8",
-                "http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8",
-                "http://183.207.249.71/PLTV/3/224/3221225550/index.m3u8",
-                "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225984/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8",
-                "http://183.207.249.35/PLTV/3/224/3221225550/index.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226199/index.m3u8",
-                "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8",
-                "http://223.110.245.170/PLTV/3/224/3221225550/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8",
-                "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8",
-                "http://hnmc.chinashadt.com:3036/live/1004.stream/playlist.m3u8"
+                "http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8"
             ]
         },
         {
-            "name": "CCTV-11",
+            "name": "PUNJAB TV",
             "url": [
-                "http://117.169.120.140:8080/live/cctv-11/.m3u8",
-                "http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226219/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8",
-                "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227384/index.m3u8",
-                "http://223.82.250.72/live/cctv-11/1.m3u8"
+                "http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8"
             ]
         },
         {
-            "name": "CCTV-12",
+            "name": "GAUNDA PUNJAB",
             "url": [
-                "http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226167/index.m3u8",
-                "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8",
-                "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8",
-                "http://223.110.245.170/PLTV/3/224/3221225556/index.m3u8",
-                "http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8",
-                "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226019/index.m3u8",
-                "http://223.82.250.72/live/cctv-12/1.m3u8"
+                "http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream/chunks.m3u8"
             ]
         },
         {
-            "name": "CCTV-13",
+            "name": "PITAARA TV",
             "url": [
-                "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8",
-                "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
-                "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
-                "http://hhab.chinashadt.com:2136/live/di3.stream/playlist.m3u8",
-                "http://klmyyun.chinavas.com/hls/qishi2.m3u8",
-                "http://cctv.v.kcdnvip.com/live/cctv13_1/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8",
-                "http://117.169.120.140:8080/live/cctv-13/.m3u8",
-                "http://183.207.249.71/PLTV/3/224/3221225560/index.m3u8"
+                "http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8"
             ]
         },
         {
-            "name": "CGTN",
+            "name": "PUNJABI ZINDABAAD",
             "url": [
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
-                "http://live.cgtn.com/1000/prog_index.m3u8",
-                "http://live.cgtn.com/500/prog_index.m3u8",
-                "http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8",
-                "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
-                "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
+               
+                "http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8"
             ]
         },
                 {
-            "name": "CHC高清电影",
+            "name": "STEELBIRD MUSIC",
             "url": [
-                "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+                "http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8"
             ]
         },
         {
-            "name": "江苏卫视",
+            "name": "TORRONTO 16",
             "url": [
-                "http://117.169.120.140:8080/live/hdjiangsustv/.m3u8",
-                "http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000075",
-                "http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?i",
-                "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/yst.m3u8",
-                "http://223.82.250.72/live/hdjiangsustv/1.m3u8",
-                "http://ivi.bupt.edu.cn/hls/jshd.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226140/index.m3u8",
-                "http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225644/index.m3u8",
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/jiangsustv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/jiangsustv/yst.m3u8",
-                "http://183.207.248.11/PLTV/4/224/3221225782/index.m3u8"
+                "http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8"
             ]
         },
         {
-            "name": "浙江卫视",
+            "name": "TORRONTO 360",
             "url": [
-                "http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8",
-                "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8",
-                "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8",
-                "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227215/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8",
-                "http://112.50.243.8/PLTV/88888888/224/3221225934/3.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/zhejiangstv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8",
-                "http://183.207.249.9/PLTV/3/224/3221225544/index.m3u8",
-                "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8",
-                "http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
-            ]
+                "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8"
         },
         {
-            "name": "东方卫视",
+            "name": "SARDARI TV",
             "url": [
-                "http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8",
-                "http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8",
-                "http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8",
-                "http://223.82.250.72/live/hddongfangstv/1.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226142/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225647/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225735/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/dongfangstv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/dongfangstv/yst.m3u8",
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=16&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
+                "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8"
             ]
         },
         {
