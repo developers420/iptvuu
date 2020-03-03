@@ -14,20 +14,10 @@
             ]
         },
         {
-            "name": "CCTV-3",
+            "name": "Punjabi-3",
             "url": [
-                "http://183.207.249.5/PLTV/3/224/3221225588/index.m3u8",
-                "http://183.207.249.9/PLTV/3/224/3221225588/1.m3u8",
-                "http://hnmc.chinashadt.com:3036/live/1003.stream/playlist.m3u8",
-                "http://sdlqx.chinashadt.com:2036/live/CCTV3.stream/playlist.m3u8",
-                "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-3/yst.m3u8",
-                "http://117.169.120.140:8080/live/cctv-3/.m3u8",
-                "http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8",
-                "http://183.207.249.71/PLTV/3/224/3221225588/index.m3u8",
-                "http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i",
-                "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+               
+                "http://skystar.livebox.co.in/skystarhls/live.m3u8"
             ]
         },
         {
