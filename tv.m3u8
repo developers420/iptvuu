@@ -1,9 +1,9 @@
 {
     "stations": [{
-            "name": "Punjabi",
+            "name": "Daily Gurbani",
             "url": [
-                "https://pkspeed.net/embed-7ijpyhfwl3q8.html",
-                "http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8"
+                
+                "http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8"
                
             ]
         },
