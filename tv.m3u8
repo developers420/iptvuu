@@ -8,18 +8,25 @@
             ]
         },
         {
-            "name": "Ik Sandhu Hunda Si (2020) Punjabi Full Movie",
+            "name": "Cine Voice (Music)",
             "url": [
                                           
-                "https://s1000.cdncv.net/hls/,mfqjwghwuto6sr7qw4iu37yv5yinoz5vx7uoctsurmm5q2y6rpzmgtqqxsoq,.urlset/master.m3u8"
+                "http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8"
                 
             ]
         },
         {
-            "name": "Rabb Da Radio 2 (2019)Full Movie Watch",
+            "name": "Boogle Bollywood (Music)",
             "url": [
-               "https://e22.cdncv.net/hls/,mfqjrdwpu7o6sr7qw4su3p2ixi55zap35prbfc3pftxhpfzpimcejj55z2bq,.urlset/master.m3u8"
+               "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8"
                 
+            ]
+        },
+         {
+            "name": "Khalistan Tv",
+            "url": [
+               
+                "http://stream.iktv.online/ktvpunjab/index.m3u8"
             ]
         },
         {
@@ -287,80 +294,141 @@
             ]
         },
         {
-            "name": "甘肃卫视",
+            "name": "BBC Toronto Punjabi Tv (Info)",
             "url": [
-                "http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=34&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1",
-                "http://111.40.205.76/PLTV/88888888/224/3221225633/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8",
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=142&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://117.169.120.140:8080/live/gansustv/.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/gansustv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/gansustv/yst.m3u8",
-                "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221226087/index.m3u8",
-                "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226033/index.m3u8",
-                "http://stream.gstv.com.cn/gsws/sd/live.m3u8"
+               
+                "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8"
             ]
         },
         {
-            "name": "宁夏卫视",
+            "name": "Life Punjabi (News)",
             "url": [
-                "http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225632/index.m3u8",
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=120&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://117.169.120.140:8080/live/ningxiastv/.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/ningxiastv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/ningxiastv/yst.m3u8",
-                "http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8",
-                "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8",
-                "http://39.134.52.181/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226034/index.m3u8",
-                "http://ivi.bupt.edu.cn/hls/nxtv.m3u8",
-                "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/ningxiastv/1.m3u8"
+               
+                "http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8"
             ]
         },
         {
-            "name": "内蒙古卫视",
+            "name": "PTV Pardesi (Info)",
             "url": [
-                "http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8",
-                "http://117.169.120.140:8080/live/neimenggustv/.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/neimenggustv/yst.m3u8",
-                "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8",
-                "http://39.134.52.159/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226022/index.m3u8",
-                "http://ivi.bupt.edu.cn/hls/nmtv.m3u8",
-                "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/neimenggustv/1.m3u8"
+                
+                "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
             ]
         },
         {
-            "name": "新疆卫视",
+            "name": "Punjabi Tadka (Music)",
             "url": [
-                "http://111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8",
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=122&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/xinjiangstv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/xinjiangstv/yst.m3u8",
-                "http://223.82.250.72/live/xinjiangstv/1.m3u8",
-                "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226026/index.m3u8",
-                "http://ivi.bupt.edu.cn/hls/xjtv.m3u8",
-                "http://livehyw2.sobeycache.com/xjtvs/zb01.m3u8"
+               
+                "http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8"
             ]
         },
         {
-            "name": "西藏卫视",
+            "name": "Saint Tv (Devotional)",
             "url": [
-                "http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8",
-                "http://111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8",
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=208&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://117.169.120.140:8080/live/xizangstv/.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/xizangstv/yst.m3u8",
-                "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226025/index.m3u8",
-                "http://ivi.bupt.edu.cn/hls/xztv.m3u8",
-                "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xizangstv/1.m3u8",
-                "http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8"
+               
+                "http://159.203.9.134/hls/saint_tv/saint_tv.m3u8"
+            ]
+        },
+           {
+            "name": "GDNS Ludhiana (Devotional)",
+            "url": [
+               
+                "http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8"
+            ]
+        },
+           {
+            "name": "Channel Y (Info)",
+            "url": [
+               
+                "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
+            ]
+        },
+           {
+            "name": "Amar Ujala (News)",
+            "url": [
+               
+                "https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8"
+            ]
+        },
+           {
+            "name": "Ankhila Punjab (Info)",
+            "url": [
+               
+                "http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8"
+            ]
+        },
+           {
+            "name": "Aone Punjabi (News)",
+            "url": [
+               
+                "http://95.216.226.165:1935/aonetv/aonetv/chunklist.m3u8"
+            ]
+        },
+          {
+            "name": "Apna Punjabi (News)",
+            "url": [
+               
+                "http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8"
+            ]
+        },
+          {
+            "name": "B4U Masti (Entertainment)",
+            "url": [
+               
+                "http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/mono.m3u8?token=fastwaytvstreams"
+            ]
+        },
+          {
+            "name": "Canada One (Entertainment)",
+            "url": [
+               
+                "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
+            ]
+        },
+          {
+            "name": "DD Punjabi",
+            "url": [
+               
+                "http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8"
+            ]
+        },
+          {
+            "name": "Desi Tadka Tv",
+            "url": [
+               
+                "http://ldt.ddns.me:8081/live/tadka/playlist.m3u8"
+            ]
+        },
+          {
+            "name": "Khalistan Tv",
+            "url": [
+               
+                "http://stream.iktv.online/ktvpunjab/index.m3u8"
             ]
         },
         {
-            "name": "南京新闻综合",
-            "url": ["http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"]
+            "name": "Namdhari Tv",
+            "url": [
+               
+                "http://namdhari.tv/live/sbs1.m3u8"
+            ]
+        },
+        {
+            "name": "Khalistan Tv",
+            "url": [
+               
+                "http://stream.iktv.online/ktvpunjab/index.m3u8"
+            ]
+        },
+        {
+            "name": "Khalistan Tv",
+            "url": [
+               
+                "http://stream.iktv.online/ktvpunjab/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sikh Channel USA (Devotional)",
+            "url": ["http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams"]
         }
     ]
 }
