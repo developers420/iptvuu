@@ -29,6 +29,201 @@
                 "http://stream.iktv.online/ktvpunjab/index.m3u8"
             ]
         },
+            {
+
+            "name": "GDNS Ludhiana (Devotional)",
+
+            "url": [
+
+               
+
+                "http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8"
+
+            ]
+
+        },
+
+           {
+
+            "name": "Channel Y (Info)",
+
+            "url": [
+
+               
+
+                "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
+
+            ]
+
+        },
+
+           {
+
+            "name": "Amar Ujala (News)",
+
+            "url": [
+
+               
+
+                "https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8"
+
+            ]
+
+        },
+
+           {
+
+            "name": "Ankhila Punjab (Info)",
+
+            "url": [
+
+               
+
+                "http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8"
+
+            ]
+
+        },
+
+           {
+
+            "name": "Aone Punjabi (News)",
+
+            "url": [
+
+               
+
+                "http://95.216.226.165:1935/aonetv/aonetv/chunklist.m3u8"
+
+            ]
+
+        },
+
+          {
+
+            "name": "Apna Punjabi (News)",
+
+            "url": [
+
+               
+
+                "http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8"
+
+            ]
+
+        },
+
+          {
+
+            "name": "B4U Masti (Entertainment)",
+
+            "url": [
+
+               
+
+                "http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/mono.m3u8?token=fastwaytvstreams"
+
+            ]
+
+        },
+
+          {
+
+            "name": "Canada One (Entertainment)",
+
+            "url": [
+
+               
+
+                "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
+
+            ]
+
+        },
+
+          {
+
+            "name": "DD Punjabi",
+
+            "url": [
+
+               
+
+                "http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8"
+
+            ]
+
+        },
+
+          {
+
+            "name": "Desi Tadka Tv",
+
+            "url": [
+
+               
+
+                "http://ldt.ddns.me:8081/live/tadka/playlist.m3u8"
+
+            ]
+
+        },
+
+          {
+
+            "name": "Khalistan Tv",
+
+            "url": [
+
+               
+
+                "http://stream.iktv.online/ktvpunjab/index.m3u8"
+
+            ]
+
+        },
+
+        {
+
+            "name": "Namdhari Tv",
+
+            "url": [
+
+               
+
+                "http://namdhari.tv/live/sbs1.m3u8"
+
+            ]
+
+        },
+
+        {
+
+            "name": "Khalistan Tv",
+
+            "url": [
+
+               
+
+                "http://stream.iktv.online/ktvpunjab/index.m3u8"
+
+            ]
+
+        },
+
+        {
+
+            "name": "Khalistan Tv",
+
+            "url": [
+
+               
+
+                "http://stream.iktv.online/ktvpunjab/index.m3u8"
+
+            ]
+
+        },
         {
             "name": "PUNJABI",
             "url": [
