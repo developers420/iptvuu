@@ -1,12 +1,22 @@
 {
     "stations": [{
-            "name": "Daily Gurbani",
+            "name": "Today Punjabi Movie Tv",
             "url": [
                 
-                "http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8"
+                "https://vkp2.vkcdn.xyz/olaxlf66thuiolyobgp2darimf5tvgkpylczh365gdtjlpvzo564z5oiglta/v.mp4"
                
             ]
         },
+
+{
+            "name": "Daily Gurbani TV",
+            "url": [
+                "http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8"
+               
+]
+        },
+
+
         {
             "name": "FASTWAY TV",
             "url": [
