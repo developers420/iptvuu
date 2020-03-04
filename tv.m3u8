@@ -177,19 +177,7 @@
 
         },
 
-          {
-
-            "name": "Khalistan Tv",
-
-            "url": [
-
-               
-
-                "http://stream.iktv.online/ktvpunjab/index.m3u8"
-
-            ]
-
-        },
+          
 
         {
 
@@ -589,13 +577,7 @@
                 "http://ldt.ddns.me:8081/live/tadka/playlist.m3u8"
             ]
         },
-          {
-            "name": "Khalistan Tv",
-            "url": [
-               
-                "http://stream.iktv.online/ktvpunjab/index.m3u8"
-            ]
-        },
+          
         {
             "name": "Namdhari Tv",
             "url": [
@@ -610,13 +592,7 @@
                 "http://stream.iktv.online/ktvpunjab/index.m3u8"
             ]
         },
-        {
-            "name": "Khalistan Tv",
-            "url": [
-               
-                "http://stream.iktv.online/ktvpunjab/index.m3u8"
-            ]
-        },
+        
         {
             "name": "Sikh Channel USA (Devotional)",
             "url": ["http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams"]
