@@ -8,11 +8,9 @@
             ]
         },
         {
-            "name": "Cine Voice (Music)",
+            "name": "FASTWAY TV",
             "url": [
-                                          
-                "http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8"
-                
+                "http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8"
             ]
         },
         {
@@ -211,19 +209,7 @@
 
         },
 
-        {
-
-            "name": "Khalistan Tv",
-
-            "url": [
-
-               
-
-                "http://stream.iktv.online/ktvpunjab/index.m3u8"
-
-            ]
-
-        },
+        
         {
             "name": "PUNJABI",
             "url": [
@@ -624,6 +610,6 @@
         {
             "name": "Sikh Channel USA (Devotional)",
             "url": ["http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams"]
-        }
+        } 
     ]
 }
